@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mesaverde2006.pages.dev/sitemap.xml
+Sitemap: https://mesaverde2006.org/sitemap.xml
