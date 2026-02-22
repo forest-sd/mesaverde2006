@@ -17,4 +17,34 @@
   <url><loc>https://mesaverde2006.org/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://mesaverde2006.org/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://mesaverde2006.org/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://mesaverde2006.org/blog/climate-change-threats-to-archaeological-sites/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mesaverde2006.org/blog/community-based-heritage-tourism-economic-models/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mesaverde2006.org/blog/digital-archaeology-preserving-heritage-with-technology/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mesaverde2006.org/blog/indigenous-knowledge-systems-in-modern-conservation/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mesaverde2006.org/blog/repatriation-debates-balancing-access-and-rights/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
